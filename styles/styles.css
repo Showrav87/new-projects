@@ -1,0 +1,56 @@
+/* header  */
+.banner {
+    background-image: url(../images/banner/banner1.png);
+    background-size: cover;
+    width: 1340px;
+    height: 600px;
+    margin-top: 0px;
+
+}
+
+.banner-sub {
+    margin-right: 120px;
+
+}
+
+.banner-title {
+
+    font-weight: 700px;
+    font-size: 40px;
+    text-align: right;
+    color: #151414;
+    margin-right: 100px;
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    
+
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    margin-right: 100px;
+    margin-left: 790px;
+    margin-bottom: 45px;
+    margin-top: 0px;
+
+}
+
+.btn-primary {
+
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 18px 30px;
+    background: #FD6E0A;
+    border: 0px;
+    margin-left: 950px;
+    margin-top: 5px;
+
+
+
+
+}
